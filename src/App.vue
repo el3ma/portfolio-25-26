@@ -16,10 +16,10 @@ import FooterItem from "./components/FooterItem.vue";
     id="home"
   >
     <div
-      class="p-5 pt-15 block md:pl-10 md:flex md:items-center md:justify-center"
+      class="pl-3 pt-30 block md:pl-10 md:flex md:items-center md:justify-center"
     >
       <div class="">
-        <p class="text-2xl sm:text-4xl">Hola, bienvenido.</p>
+        <p class="text-base lg:text-2xl">Hola, bienvenido.</p>
         <div class="wrapper md:pb-5">
           <h1 class="text-4xl font-bold pb-2 md:text-7xl">Soy</h1>
           <div class="words">
@@ -37,7 +37,7 @@ import FooterItem from "./components/FooterItem.vue";
             >
           </div>
         </div>
-        <p class="text-2xl">puedo ayudarte a diseñar tu página web</p>
+        <p class="text-base lg:text-2xl">puedo ayudarte a diseñar tu página web</p>
       </div>
       <div class="header__logo">
         <img
@@ -77,9 +77,9 @@ import FooterItem from "./components/FooterItem.vue";
       <font-awesome-icon icon="fa-solid fa-house" />
     </article>
   </section>
-  <section id="skills" class="py-30 mx-10">
+  <section id="skills" class="py-30 md:mx-10">
     <div class="max-w-5xl mx-auto">
-      <h3 class="text-3xl font-medium text-white">Skills</h3>
+      <h3 class="text-3xl font-medium text-white max-sm:mx-10">Skills</h3>
     </div>
     <LogoCarrusel class="py-5" />
   </section>

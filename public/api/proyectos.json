@@ -3,28 +3,28 @@
         "id": 1,
         "nombre": "Proyecto Pokemon Api",
         "descripcion": "Descripción del Proyecto 1",
-        "imagen": "/imgs/pokeApi_portada.png",
+        "imagen": "/imgs/proyectos/pokeApi_portada.png",
         "url": "https://el3ma.github.io/desafio-seis-vue/",
         "tecnologias": [
             {
                 "nombre": "HTML",
-                "icono": "./src/assets/html5.svg"
+                "icono": "/imgs/tecnologias/css.svg"
             },
             {
                 "nombre": "CSS",
-                "icono": "./src/assets/css.svg"
+                "icono": "/imgs/tecnologias/css.svg"
             },
             {
                 "nombre": "Vue",
-                "icono": "./src/assets/vuedotjs.svg"
+                "icono": "/imgs/tecnologias/vuedotjs.svg"
             },
             {
                 "nombre": "JavaScript",
-                "icono": "./src/assets/javascript.svg"
+                "icono": "/imgs/tecnologias/javascript.svg"
             },
             {
                 "nombre": "Bootstrap",
-                "icono": "./src/assets/bootstrap.svg"
+                "icono": "/imgs/tecnologias/bootstrap.svg"
             }
         ]
     }

@@ -1,14 +1,14 @@
 <script setup>
-import Html5 from '../assets/html5.svg';
-import CSS from '../assets/css.svg';
-import Bootstrap from '../assets/bootstrap.svg';
-import JavaScript from '../assets/javascript.svg'
-import Git from '../assets/git.svg'
-import GitHub from '../assets/github.svg'
-import Vue from '../assets/vuedotjs.svg'
-import TailwindCss from '../assets/tailwindcss.svg'
-import Figma from '../assets/figma.svg'
-import AfterEffects from '../assets/adobe-after-effects.svg'
+import Html5 from '/public/imgs/tecnologias/html5.svg';
+import CSS from '/public/imgs/tecnologias/css.svg';
+import Bootstrap from '/public/imgs/tecnologias/bootstrap.svg';
+import JavaScript from '/public/imgs/tecnologias/javascript.svg'
+import Git from '/public/imgs/tecnologias/git.svg'
+import GitHub from '/public/imgs/tecnologias/github.svg'
+import Vue from '/public/imgs/tecnologias/vuedotjs.svg'
+import TailwindCss from '/public/imgs/tecnologias/tailwindcss.svg'
+import Figma from '/public/imgs/tecnologias/figma.svg'
+import AfterEffects from '/public/imgs/tecnologias/adobe-after-effects.svg'
 
 const logos = [
   { src: Html5, alt: 'HTML5' },
