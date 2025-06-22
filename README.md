@@ -1,29 +1,39 @@
-# portafolio_vue
+# 🧑‍💻 Emanuel Astudillo – Portafolio Frontend & UX/UI
 
-This template should help get you started developing with Vue 3 in Vite.
+## ✨ Descripción
+Este es mi portafolio personal como Desarrollador Frontend y Diseñador UX/UI. Aquí presento algunos de mis proyectos más destacados, enfocados en diseño centrado en el usuario, interfaces intuitivas e interacciones dinámicas usando tecnologías modernas.
 
-## Recommended IDE Setup
+## 🚀 Tecnologías principales
+- Frontend: Vue.js, JavaScript, HTML5, CSS3, Tailwind CSS
+- UX/UI Design: Figma, diseño responsivo, arquitectura de la información
+- Gestión de estado: Vuex
+- Routing: Vue Router
+- Otras herramientas: Firebase (para autenticación y base de datos en tiempo real), Git & GitHub
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🧩 Proyectos incluidos
+- **App para Freelancers**
+    - App tipo dashboard con gestión de proyectos, tareas y finanzas.
+    - Tecnologías: Vue, Vuex, LocalStorage.
 
-## Customize configuration
+- **Descubre Pokemones**
+    - Pagina web para descubrir los distintos pokemones utilizando PokeApi.
+    - Tecnologías Vue, JavaScript, Bootstrap.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+_Proximamente más..._
 
-## Project Setup
 
-```sh
-npm install
-```
+## 🎯 Objetivo
+Este portafolio busca reflejar no solo mis conocimientos técnicos, sino también mi enfoque humano y lógico para resolver problemas, priorizando siempre una buena experiencia de usuario.
 
-### Compile and Hot-Reload for Development
+## 👨‍🎨 Sobre mí
+Soy Emanuel, un desarrollador frontend con fuerte base en diseño UX/UI. Me encanta crear interfaces que no solo se vean bien, sino que se sientan naturales al usarse. Trabajo bien en equipo, me apasiona aprender y quiero crecer en el mundo tech colaborando en proyectos con propósito.
 
-```sh
-npm run dev
-```
+#### 📫 Contacto
 
-### Compile and Minify for Production
+- [LinkedIn](https://www.linkedin.com/in/emanuel-astudillo-quiroz/)
 
-```sh
-npm run build
-```
+- [astudillo.emanuel@gmail.com](mailto:astudillo.emanuel@gmail.com)
+
+- [Portafolio online](https://portafolioemanuel.netlify.app/)
+
+

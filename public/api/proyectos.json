@@ -2,13 +2,14 @@
     {
         "id": 1,
         "nombre": "Proyecto Pokemon Api",
-        "descripcion": "Descripción del Proyecto 1",
+        "descripcion": "Proyecto realizado como parte del desafío número seis del Bootcamp de programación Front-End, que consiste en crear una aplicación que consuma la API de Pokemon. Proyecto realizado con Vue.js.",
         "imagen": "/imgs/proyectos/pokeApi_portada.png",
         "url": "https://el3ma.github.io/desafio-seis-vue/",
+        "repo": "https://github.com/el3ma/desafio-seis-vue",
         "tecnologias": [
             {
                 "nombre": "HTML",
-                "icono": "/imgs/tecnologias/css.svg"
+                "icono": "/imgs/tecnologias/html5.svg"
             },
             {
                 "nombre": "CSS",
@@ -25,6 +26,37 @@
             {
                 "nombre": "Bootstrap",
                 "icono": "/imgs/tecnologias/bootstrap.svg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Freelance Tracker",
+        "descripcion": "Freelance Tracker es una aplicación web diseñada especialmente para freelancers y creativos que desean llevar el control de sus proyectos, tareas y finanzas de forma clara, simple y efectiva.",
+        "imagen": "/imgs/proyectos/freelance-tasks.png",
+        "url": "https://freelance-tasks.netlify.app/",
+        "repo": "https://github.com/el3ma/freelance-task",
+        "tecnologias": [
+            {
+                "nombre": "HTML",
+                "icono": "/imgs/tecnologias/html5.svg"
+            },
+            {
+                "nombre": "CSS",
+                "icono": "/imgs/tecnologias/css.svg"
+            },
+            {
+                "nombre": "Vue",
+                "icono": "/imgs/tecnologias/vuedotjs.svg"
+            },
+            {
+                "nombre": "JavaScript",
+                "icono": "/imgs/tecnologias/javascript.svg"
+            },
+            {
+                "nombre": "Tailwind CSS",
+                "icono": "/imgs/tecnologias/tailwindcss.svg"
+                
             }
         ]
     }

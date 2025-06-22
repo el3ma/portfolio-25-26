@@ -1,5 +1,5 @@
 <template>
-   <div class="mx-auto max-w-5xl p-5 min-h-90 bg-gray-800 text-white">
+   <div class="mx-auto max-w-5xl p-5 min-h-90 bg-gray-800 text-white flex flex-col gap-5">
       
       <CardItem v-for="itemProyecto in listaProyectos"
       :key="itemProyecto.id"

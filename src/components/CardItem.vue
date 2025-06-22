@@ -7,7 +7,7 @@
         alt="Album"
       />
     </figure>
-    <div class="card-body pt-5">
+    <div class="card-body pt-5 md:w-1/2">
       <h2 class="text-2xl font-bold">{{ proyectos.nombre }}</h2>
       <p class="text-gray-300 pt-2">{{ proyectos.descripcion }}</p>
       <ul class="flex flex-row gap-3 py-5">
@@ -20,9 +20,15 @@
         </li>
       </ul>
       <div class="justify-end">
-        <a :href="proyectos.url" target="_blank" rel="noopener noreferrer">
-          <button class="bg-violet-500 px-8 py-3 rounded-sm hover:bg-violet-800">Listen</button>
-        </a>
+        <div class="flex md:flex-row gap-5">
+
+          <a :href="proyectos.url" target="_blank" rel="noopener noreferrer">
+            <button class="bg-violet-500 px-8 py-3 rounded-sm hover:bg-violet-800">Deploy</button>
+          </a>
+          <a :href="proyectos.repo" target="_blank" rel="noopener noreferrer">
+            <button class="bg-violet-500 px-8 py-3 rounded-sm hover:bg-violet-800">Repositorio</button>
+          </a>
+        </div>
       </div>
     </div>
   </div>
