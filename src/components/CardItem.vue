@@ -1,8 +1,8 @@
 <template>
   <div class="bg-base-100 shadow-sm text-white p-2 border-2 border-gray-700/50 rounded-lg md:w-auto md:flex md:items-center gap-15">
-    <figure class="rounded-t-lg">
+    <figure class="md:w-1/2">
       <img
-        class="rounded-tl-lg rounded-br-lg aspect-auto md:w-90 md:h-80 md:rounded-lg "
+        class="aspect-auto md:w-110 md:h-80 md:rounded-l-lg  md:rounded-r-none rounded-t-lg"
         :src="proyectos.imagen"
         alt="Album"
       />
